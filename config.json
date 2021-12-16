@@ -1,7 +1,7 @@
 {
- "ip": "katyty.aternos.me",
- "port": "",
- "name": "eeeeeeee",
- "auto-night-skip": "false",
+ "ip": "skyhixex.aternos.me",
+ "port": "49216",
+ "name": "AntiCheatBotL",
+ "auto-night-skip": "true",
  "loginmsg": "Your_Login_message_here"
 }
